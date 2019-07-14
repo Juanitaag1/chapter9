@@ -4,9 +4,7 @@
 //
 //  Created by JuanitaLAguilar on 11/6/18.
 //  Copyright © 2018 JuanitaLAguilar. All rights reserved.
-// now adding bug fix for issue#3
-
-//Juanita
+// now adding bug fix for issue#3 //Juanita
 
 import UIKit
 
