@@ -6,6 +6,8 @@
 //  Copyright © 2018 JuanitaLAguilar. All rights reserved.
 // now adding bug fix for issue#3
 
+//Juanita
+
 import UIKit
 
 class ViewController: UIViewController {//extends
